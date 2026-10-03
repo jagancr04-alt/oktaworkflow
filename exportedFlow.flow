@@ -1,7 +1,7 @@
 {
   "type": "flopack",
   "version": "1.6.0",
-  "created": "2026-10-01T10:57:01.029Z",
+  "created": "2026-10-03T05:50:41.118Z",
   "flags": {
     "auto-transform": true,
     "looseBooleans": true,
@@ -10,13 +10,13 @@
   },
   "data": {
     "flos": {
-      "6508b102-d96d-40dd-b955-eb6daaa9ee28": {
-        "id": "6508b102-d96d-40dd-b955-eb6daaa9ee28",
+      "3f1b388b-91d7-48bb-bb68-4d80022a6957": {
+        "id": "3f1b388b-91d7-48bb-bb68-4d80022a6957",
         "name": "Create O365 Guest User",
         "description": "Create O365 guest user when added to Okta group then make them visible in the address book. ",
         "data": {
           "id": null,
-          "uuid": "6508b102-d96d-40dd-b955-eb6daaa9ee28",
+          "uuid": "3f1b388b-91d7-48bb-bb68-4d80022a6957",
           "display": {
             "preview": [
               {
@@ -3723,7 +3723,7 @@
           "log": true,
           "inheritLog": true,
           "scheduled": false,
-          "group": "cca21bbf-d295-44e7-aff8-3c927b87dcff",
+          "group": "fed67904-3772-471e-8e15-8dcc54725aa5",
           "templateName": null,
           "templateFlowKey": null,
           "connector_method_meta": {
